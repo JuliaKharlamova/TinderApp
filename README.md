@@ -2,7 +2,7 @@
 ![alt text](https://i.imgur.com/ISfRC6Z.gif)
 ![alt text](https://i.imgur.com/osKJxQn.gif)
 ![alt text](https://i.imgur.com/dWNsSJ9.gif)
-![alt text](https://i.imgur.com/eipTUAm.gif)
+
 ## Overview
 * Registration and login via firebase Auth. Saving images to Firebase Storage.
 * Manual swipe implementation without using frameworks.
